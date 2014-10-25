@@ -1,0 +1,12 @@
+{
+    "name": "shoeb/prop",
+    "description": "This is a test package",
+    "authors": [
+        {
+            "name": "shoeb Surya",
+            "email": "shoeb.surya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
